@@ -1,0 +1,1 @@
+Day 14: RaspBot RTOS project (Real-Time Systems), code walk-through. L.C. 1509, Minimum Difference Between Largest and Smallest Value in Three Moves: sort, then compare the three ways to remove 3 elements. Session: 1h 12m 51s.
